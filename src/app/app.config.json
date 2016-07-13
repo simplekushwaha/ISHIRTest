@@ -1,0 +1,13 @@
+{
+  "appname": "ISHIRTest",
+  "ocscope": "",
+  "clientid": "25967FA0-A5C5-42BB-8CB4-9BD8D5FF8FA6",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
